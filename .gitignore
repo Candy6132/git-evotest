@@ -12,4 +12,6 @@ Log/
 Logs/
 RankingServer/
 Tools/
+GameServer/
+GameServerCS/
 *.exe
