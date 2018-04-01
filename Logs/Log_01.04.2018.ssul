@@ -1,0 +1,69 @@
+﻿-=-=-=-=-= Begin write Logs: 01.04.2018 2:33:07 PM =-=-=-=-=-
+[2:33:07 PM] Process tree has been loaded successfully.
+[2:33:07 PM] The process 'cashshopserver.exe' (ID: 1) is ready.
+[2:33:07 PM] The process 'CS.exe' (ID: 2) is ready.
+[2:33:07 PM] The process 'ChatServer.exe' (ID: 3) is ready.
+[2:33:07 PM] The process 'DataServer.exe' (ID: 4) is ready.
+[2:33:07 PM] The process 'DataServer.exe' (ID: 5) is ready.
+[2:33:07 PM] The process 'ExDB.exe' (ID: 6) is ready.
+[2:33:07 PM] The process 'EventServer.exe' (ID: 7) is ready.
+[2:33:07 PM] The process 'RankingServer.exe' (ID: 8) is ready.
+[2:33:07 PM] The process 'JoinServer.exe' (ID: 9) is ready.
+[2:33:07 PM] The process 'GameServer.exe' (ID: 10) is ready.
+[2:33:07 PM] The process 'GameServerCS.exe' (ID: 11) is ready.
+[2:33:12 PM] Processes execution has been initialized.
+[2:33:13 PM] Process 'cashshopserver.exe' (ID: 1) execution has been initialized.
+[2:33:06 PM] Process 'CS.exe' (ID: 2) execution has been initialized.
+[2:33:09 PM] Process 'ChatServer.exe' (ID: 3) execution has been initialized.
+[2:33:10 PM] Process 'DataServer.exe' (ID: 4) execution has been initialized.
+[2:33:12 PM] Process 'DataServer.exe' (ID: 5) execution has been initialized.
+[2:33:13 PM] Process 'ExDB.exe' (ID: 6) execution has been initialized.
+[2:33:19 PM] Process 'EventServer.exe' (ID: 7) execution has been initialized.
+[2:33:25 PM] Process 'RankingServer.exe' (ID: 8) execution has been initialized.
+[2:33:28 PM] Process 'JoinServer.exe' (ID: 9) execution has been initialized.
+[2:35:01 PM] Process 'GameServer.exe' (ID: 10) execution has been initialized by user.
+[2:35:09 PM] Process 'GameServerCS.exe' (ID: 11) execution has been initialized by user.
+[2:35:26 PM] Process 'GameServerCS.exe' (ID: 11) is not active.
+[2:36:00 PM] Process 'GameServerCS.exe' (ID: 11) has been restarted.
+[2:36:26 PM] Process 'cashshopserver.exe' (ID: 1) execution has been terminated.
+[2:36:26 PM] Process 'CS.exe' (ID: 2) execution has been terminated.
+[2:36:26 PM] Process 'ChatServer.exe' (ID: 3) execution has been terminated.
+[2:36:26 PM] Process 'DataServer.exe' (ID: 4) execution has been terminated.
+[2:36:26 PM] Process 'DataServer.exe' (ID: 5) execution has been terminated.
+[2:36:26 PM] Process 'ExDB.exe' (ID: 6) execution has been terminated.
+[2:36:26 PM] Process 'EventServer.exe' (ID: 7) execution has been terminated.
+[2:36:26 PM] Process 'RankingServer.exe' (ID: 8) execution has been terminated.
+[2:36:26 PM] Process 'JoinServer.exe' (ID: 9) execution has been terminated.
+[2:36:26 PM] Process 'GameServer.exe' (ID: 10) execution has been terminated.
+[2:36:26 PM] Process 'GameServerCS.exe' (ID: 11) execution has been terminated.
+[2:36:26 PM] Processes execution has been terminated.
+[2:37:18 PM] Processes execution has been initialized.
+[2:37:19 PM] Process 'cashshopserver.exe' (ID: 1) execution has been initialized.
+[2:37:21 PM] Process 'CS.exe' (ID: 2) execution has been initialized.
+[2:37:23 PM] Process 'ChatServer.exe' (ID: 3) execution has been initialized.
+[2:37:25 PM] Process 'DataServer.exe' (ID: 4) execution has been initialized.
+[2:37:26 PM] Process 'DataServer.exe' (ID: 5) execution has been initialized.
+[2:37:28 PM] Process 'ExDB.exe' (ID: 6) execution has been initialized.
+[2:37:33 PM] Process 'EventServer.exe' (ID: 7) execution has been initialized.
+[2:37:39 PM] Process 'RankingServer.exe' (ID: 8) execution has been initialized.
+[2:37:42 PM] Process 'JoinServer.exe' (ID: 9) execution has been initialized.
+[2:37:46 PM] Process 'GameServer.exe' (ID: 10) execution has been initialized.
+[2:37:48 PM] Process 'GameServerCS.exe' (ID: 11) execution has been initialized.
+[2:38:04 PM] Process 'GameServer.exe' (ID: 10) is not active.
+[2:38:04 PM] Process 'GameServerCS.exe' (ID: 11) is not active.
+[2:38:13 PM] Process 'GameServer.exe' (ID: 10) is not active.
+[2:38:19 PM] Process 'GameServerCS.exe' (ID: 11) is not active.
+[2:39:30 PM] Process 'GameServer.exe' (ID: 10) execution has been initialized by user.
+[2:39:49 PM] Process 'GameServerCS.exe' (ID: 11) execution has been initialized by user.
+[3:03:17 PM] Process 'cashshopserver.exe' (ID: 1) execution has been terminated.
+[3:03:17 PM] Process 'CS.exe' (ID: 2) execution has been terminated.
+[3:03:17 PM] Process 'ChatServer.exe' (ID: 3) execution has been terminated.
+[3:03:17 PM] Process 'DataServer.exe' (ID: 4) execution has been terminated.
+[3:03:17 PM] Process 'DataServer.exe' (ID: 5) execution has been terminated.
+[3:03:17 PM] Process 'ExDB.exe' (ID: 6) execution has been terminated.
+[3:03:17 PM] Process 'EventServer.exe' (ID: 7) execution has been terminated.
+[3:03:17 PM] Process 'RankingServer.exe' (ID: 8) execution has been terminated.
+[3:03:17 PM] Process 'JoinServer.exe' (ID: 9) execution has been terminated.
+[3:03:17 PM] Process 'GameServer.exe' (ID: 10) execution has been terminated.
+[3:03:17 PM] Process 'GameServerCS.exe' (ID: 11) execution has been terminated.
+[3:03:17 PM] Processes execution has been terminated.
