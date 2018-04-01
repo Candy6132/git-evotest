@@ -50,19 +50,11 @@ end
 257	0	0	96	129	1 // Elf Buffer
 257	0	0	174	129	1 // Elf Buffer
 257	0	0	132	167	3 // Elf Buffer
-241	0	0	130	129	3 // Guild Master
-256	0	0	130	127	3 // Lahap
-235	0	0	130	125	3 // Priest Sevina
-238	0	0	130	121	3 // Chaos Goblin
-229	0	0	130	133	3 // Marlon
 230	0	0	130	134	3 // Alex
-250	0	0	131	146	2 // Peddler
-407	0	0	145	140	1 // Werewolf Guardsman
-406	0	0	141	140	1 // Priest Devin
-236	0	0	141	144	1 // Golden Archer
-377 0   0   137 133 3 // Angela the Supplier PK Guard
-376 0   0   130 118 3 // Pamela the Supplier Search NPC
-501 0   0   138 127 3 // Trainer of the Murder NPC Kill Quest
+//236	0	0	141	144	1 // Golden Archer
+377	0	0	137	133	3 // Angela the Supplier PK Guard
+376	0	0	130	127	3 // Pamela the Supplier Search NPC
+501	0	0	138	127	3 // Trainer of the Murder NPC Kill Quest
 end
 
 //=========================================================================================						
@@ -84,7 +76,7 @@ end
 6	0	10	135	213	143	220	-1	6 // Lich
 14	0	10	135	213	143	220	-1	10 // Skeleton Warrior
 14	0	3	121	230	121	231	-1	5 // Skeleton Warrior
-4	0	6	8	134	12	141	-1	8 // Elite Bull Fighter
+4	0	6	35	56	38	121	-1	8 // Elite Bull Fighter
 end
 
 //=========================================================================================							
@@ -1636,6 +1628,17 @@ end
 47	7	0	90	33	-1	//Valkyrie A1
 48	7	15	228	61	-1	//Lizard King A2
 end
+
+//=========================================================================================							
+//================================= Tarkan NPC- ===========================================							
+//=========================================================================================							
+
+0
+253	8	0	191	73	2	//Potion Girl
+231	8	0	204	62	3	//Thompson Kenel
+end
+
+
 //=========================================================================================							
 //================================= Tarkan - =============================================							
 //=========================================================================================							
@@ -3333,7 +3336,7 @@ end
 //Kalima 1
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Name
 0
-259	24	0	12	28			3	// Oracle Layla Reset Guard
+259	24	0	12	28			2	// Oracle Layla Reset Guard
 end
 
 1
@@ -3406,6 +3409,10 @@ end
 
 //Kalima 2
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Name
+0
+259	25	0	12	28			2	// Oracle Layla Reset Guard
+end
+
 1
 177	25	5	21	13	26	18	-1	4	//Aegis
 178	25	5	36	9	42	14	-1	5	//Lord Centurion
@@ -3464,6 +3471,10 @@ end
 
 //Kalima 3
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Name
+0
+259	26	0	12	28			2	// Oracle Layla Reset Guard
+end
+
 1
 185	26	5	21	13	26	18	-1	4	//Aegis
 186	26	5	36	9	42	14	-1	5	//Lord Centurion
@@ -3534,6 +3545,10 @@ end
 
 //Kalima 4
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Name
+0
+259	27	0	12	28			2	// Oracle Layla Reset Guard
+end
+
 1
 193	27	5	21	13	26	18	-1	4	//Aegis
 194	27	5	36	9	42	14	-1	5	//Lord Centurion
@@ -3601,6 +3616,11 @@ end
 
 //Kalima 5
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Name
+
+0
+259	28	0	12	28			2	// Oracle Layla Reset Guard
+end
+
 1
 263	28	5	21	13	26	18	-1	4	//Aegis
 264	28	5	36	9	42	14	-1	5	//Lord Centurion
@@ -3663,6 +3683,10 @@ end
 
 //Kalima 6
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Name
+0
+259	29	0	12	28			2	// Oracle Layla Reset Guard
+end
+
 1
 271	29	5	21	13	26	18	-1	4	//Aegis
 272	29	5	36	9	42	14	-1	5	//Lord Centurion
@@ -3750,6 +3774,10 @@ end
 
 //Kalima 7
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Name
+0
+259	36	0	12	28			2	// Oracle Layla Reset Guard
+end
+
 1
 331	36	5	21	13	26	18	-1	4	//Aegis
 332	36	5	36	9	42	14	-1	5	//Lord Centurion
