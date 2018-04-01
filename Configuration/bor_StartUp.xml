@@ -9,6 +9,6 @@
   <Process Run="True" Delay="1000" Path=".\EventServer\EventServer.exe" Parameters="" />
   <Process Run="True" Delay="1000" Path=".\RankingServer\RankingServer.exe" Parameters="" />
   <Process Run="True" Delay="1000" Path=".\JoinServer\JoinServer.exe" Parameters="/p55970 /ca127.0.0.1 /cp55557" />
-  <Process Run="True" Delay="1000" Path=".\GameServer\GameServer.exe" Parameters="" />
+  <Process Run="False" Delay="1000" Path=".\GameServer\GameServer.exe" Parameters="" />
   <Process Run="False" Delay="1000" Path=".\GameServerCS\GameServerCS.exe" Parameters="" />
 </Processes>
