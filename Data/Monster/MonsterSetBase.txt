@@ -3333,7 +3333,7 @@ end
 //Kalima 1
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Name
 0
-259	24	0	137	122			3	// Oracle Layla Reset Guard
+259	24	0	12	28			3	// Oracle Layla Reset Guard
 end
 
 1
