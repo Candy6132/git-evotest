@@ -1,0 +1,1 @@
+Encoder.exe ServerList.txt .\\Data\\Evolution\\Load\\ServerList.bmd

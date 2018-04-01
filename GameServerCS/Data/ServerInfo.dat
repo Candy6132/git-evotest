@@ -1,0 +1,4 @@
+[GameServerInfo]
+ServerName		= Siege
+ServerCode		= 9
+ConnectMemberLoad	= 0

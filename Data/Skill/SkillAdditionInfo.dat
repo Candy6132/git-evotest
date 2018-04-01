@@ -1,0 +1,42 @@
+// ================================================== //
+// # Season 2.0 - SkillAdditionInfo.dat  	    # //
+// # MU Online dxteam - © KinhoMace       	    # //
+// ================================================== //
+
+//------------------------------------------------------//
+//		  Infinity Arrow Options	        //
+//------------------------------------------------------//
+[SkillInfo]
+InfinityArrowSkillTime 			= 600
+InfinityArrowUseLevel 			= 220
+InfinityArraowMPConsumptionPlus0 	= 5
+InfinityArraowMPConsumptionPlus1 	= 7
+InfinityArraowMPConsumptionPlus2 	= 10
+
+//------------------------------------------------------//
+//		   Fire Scream Options		        //
+//------------------------------------------------------//
+FireScreamSkill				= 1
+FireScreamExplosionAttackDistance 	= 2
+FireScreamExplosionDamage 		= 3000
+FireScreamExplosionRate			= 3000
+FireScreamMaxAttackCountSameSerial 	= 3
+FireScreamSerialInitCount 		= 100
+CheckFireScreamSerial 			= 1
+
+//=====================================
+// Soul Barrier (DW)
+//=====================================
+// ----------------------------------------------------------------------------------
+//Start + <Dexterity> / Div1 + <Energy> / Div2
+// ----------------------------------------------------------------------------------
+SoulBarrierDefenseStart			= 10
+SoulBarrierDefenseDiv1			= 150
+SoulBarrierDefenseDiv2			= 600
+SoulBarrierDefenseMax			= 50	//-> [0 = without limit]
+// ----------------------------------------------------------------------------------
+//Start + <Energy> / Div
+// ----------------------------------------------------------------------------------
+SoulBarrierTimeStart			= 60
+SoulBarrierTimeDiv			= 40
+SoulBarrierTimeMax			= 0	//-> [0 = without limit]

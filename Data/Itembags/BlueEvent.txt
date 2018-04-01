@@ -1,0 +1,74 @@
+//=============================================================================================================
+//ItemDropRate	 	- Drop rate of item VS Zen [x/100]
+//ExRate		- Drop rate of excellent item [x/1000]
+//=============================================================================================================
+//	EventName		DropZen		NA	NA 	NA 	  NA 		ItemDropRate	ExRate
+//=============================================================================================================
+1	
+	"BlueEvent"		1000000		0	0	 0	  0		40		100
+end
+
+//=============================================================================================================
+//Type			- Item.TXT index (section) of the Box
+//Index 		- Item.TXT id of the Item
+//minLvl		- Minimal Level of the Item (+1, +2 etc...)
+//maxLvl		- Maximum Level of the Item (+1, +2 etc...)
+//Skill			- Drop Item with Skill (0 - off,1 - on)
+//Luck			- Drop Item with Luck (0 - off,1 - on)
+//maxZ28		- Maximum Z28 option (1 = +4, 2 = +8, 3 = +12, etc...)
+//maxExOpt		- Maximum number of Exc option in item
+//=============================================================================================================
+//	Type	Index	minLvl	maxLvl	Skill	Luck	maxZ28	maxExOpt		
+//=============================================================================================================
+2																		
+7	5	0	0	1	1	//Leather Helm
+8	5	0	0	1	1	//Leather Armor
+9	5	0	0	1	1	//Leather Pants
+10	5	0	0	1	1	//Leather Gloves
+11	5	0	0	1	1	//Leather Boots
+7	0	0	0	1	1	//Bronze Helm
+8	0	0	0	1	1	//Bronze Armor
+9	0	0	0	1	1	//Bronze Pants
+10	0	0	0	1	1	//Bronze Gloves
+11	0	0	0	1	1	//Bronze Boots
+						
+7	10	0	0	1	1	//Vine Helm
+8	10	0	0	1	1	//Vine Armor
+9	10	0	0	1	1	//Vine Pants
+10	10	0	0	1	1	//Vine Gloves
+11	10	0	0	1	1	//Vine Boots
+						
+7	2	0	0	1	1	//Pad Helm
+8	2	0	0	1	1	//Pad Armor
+9	2	0	0	1	1	//Pad Pants
+10	2	0	0	1	1	//Pad Gloves
+11	2	0	0	1	1	//Pad Boots
+						
+6	0	0	0	1	1	//Small Shield
+6	1	0	0	1	1	//Horn Shield
+6	3	0	0	1	1	//Elven Shield
+6	4	0	0	1	1	//Buckler
+						
+5	0	0	0	1	1	//Skull Staff
+						
+4	0	0	1	1	1	//Shord Bow
+4	1	0	1	1	1	//Bow
+4	2	0	1	1	1	//Elven Bow
+4	8	0	1	1	1	//Crossbow
+						
+3	0	0	0	1	1	//Light Spear
+3	1	0	0	1	1	//Spear
+						
+2	0	0	0	1	1	//Mace
+1	0	0	0	1	1	//Small Axe
+1	1	0	0	1	1	//Hand Axe
+						
+0	0	0	0	1	1	//Kris
+0	1	0	0	1	1	//Shord Sword
+0	2	0	0	1	1	//Rapier
+0	3	0	0	1	1	//Katana
+0	4	0	0	1	1	//Sword of Assassin
+						
+13	22	0	0	1	1	//Ring of Earth
+13	9	0	0	1	1	//Ring of Poison
+end

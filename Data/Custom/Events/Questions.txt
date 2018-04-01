@@ -1,0 +1,38 @@
+1
+//	Enabled		//MaxQuestions Per Round
+	0		3
+end
+
+2
+//	ID	Question		Answer
+	1	"Quest. 1 : Who is the owner of the server files ?"		"A"
+	2	"Quest. 2 : What version is this ?"			"B"
+	3	"Quest. 3 : Would you rate this files ?"		"C"
+end
+
+3
+//	QID	Answers
+	1	"A) Evolution Team"
+	1	"B) WebZen"
+	1	"C) zTeam"
+	
+	2	"A) Season 1"
+	2	"B) Season 2"
+	2	"B) Season 3"
+	
+	3	"A) No"
+	3	"B) Never"
+	3	"C) Yes"
+end
+
+[Reward]
+Type = 11
+Index = 1
+Level = 13
+Skill = 0
+Luck = 1
+Option = 8
+Exc = 1
+Anc = 5
+Dur = 1
+Zen = 200000

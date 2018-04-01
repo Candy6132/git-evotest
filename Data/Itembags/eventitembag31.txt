@@ -1,0 +1,38 @@
+//=============================================================================================================
+//ItemDropRate	 	- Drop rate of item VS Zen [x/100]
+//ExRate		- Drop rate of excellent item [x/1000]
+//=============================================================================================================
+//	EventName		DropZen		NA	NA 	NA 	  NA 		ItemDropRate	ExRate
+//=============================================================================================================
+1	
+	"BalgassBossDrop"	50000000	0	0	 0	  0		100		1000
+end
+
+//=============================================================================================================
+//Type			- Item.TXT index (section) of the Box
+//Index 		- Item.TXT id of the Item
+//minLvl		- Minimal Level of the Item (+1, +2 etc...)
+//maxLvl		- Maximum Level of the Item (+1, +2 etc...)
+//Skill			- Drop Item with Skill (0 - off,1 - on)
+//Luck			- Drop Item with Luck (0 - off,1 - on)
+//maxZ28		- Maximum Z28 option (1 = +4, 2 = +8, 3 = +12, etc...)
+//maxExOpt		- Maximum number of Exc option in item
+//=============================================================================================================
+//	Type	Index	minLvl	maxLvl	Skill	Luck	maxZ28	maxExOpt		
+//=============================================================================================================
+2
+7	29	0	0	0	1	1	1	//Dragon Knight Helm
+9	29	0	0	0	1	1	1	//Dragon Knight Pants
+7	30	0	0	0	1	1	1	//Venom Mist Helm
+9	30	0	0	0	1	1	1	//Venom Mist Pants
+7	31	0	0	0	1	1	1	//Sylphid Ray Helm
+9	31	0	0	0	1	1	1	//Sylphid Ray Pants
+7	33	0	0	0	1	1	1	//Sunlight Helm
+9	33	0	0	0	1	1	1	//Sunlight Pants
+9	32	0	0	0	1	1	1	//Volcano Pants
+0	22	0	0	1	1	0	1	//Bone Blade
+0	23	0	0	1	1	0	1	//Explosion Blade
+5	12	0	0	0	1	0	1	//Grand Viper Staff
+4	21	0	0	1	1	0	1	//Sylph Wind Bow
+2	13	0	0	1	1	0	1	//Divine Scepter of Archangel
+end

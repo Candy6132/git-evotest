@@ -1,0 +1,35 @@
+//=============================================================================================================
+//ItemDropRate	 	- Drop rate of item VS Zen [x/100]
+//ExRate		- Drop rate of excellent item [x/1000]
+//=============================================================================================================
+//	EventName		DropZen		NA	NA 	NA 	  NA 		ItemDropRate	ExRate
+//=============================================================================================================
+1	
+	"KundunBossDrop"	30000000	0	0	 0	  0		100		1000
+end
+
+//=============================================================================================================
+//Type			- Item.TXT index (section) of the Box
+//Index 		- Item.TXT id of the Item
+//minLvl		- Minimal Level of the Item (+1, +2 etc...)
+//maxLvl		- Maximum Level of the Item (+1, +2 etc...)
+//Skill			- Drop Item with Skill (0 - off,1 - on)
+//Luck			- Drop Item with Luck (0 - off,1 - on)
+//maxZ28		- Maximum Z28 option (1 = +4, 2 = +8, 3 = +12, etc...)
+//maxExOpt		- Maximum number of Exc option in item
+//=============================================================================================================
+//	Type	Index	minLvl	maxLvl	Skill	Luck	maxZ28	maxExOpt		
+//=============================================================================================================
+2																					
+8	29	0	0	0	1	1	1	//Dragon Knight Armor
+8	30	0	0	0	1	1	1	//Venom Mist Armor
+8	31	0	0	0	1	1	1	//Sylphid Ray Armor
+8	33	0	0	0	1	1	1	//Sunlight Armor
+8	32	0	0	0	1	1	1	//Volcano Armor
+0	22	0	0	1	1	1	1	//Bone Blade
+0	23	0	0	1	1	1	1	//Explosion Blade
+5	12	0	0	0	1	1	1	//Grand Viper Staff
+5	11	9	13	0	1	1	1	//Staff of Kundun
+4	21	0	0	1	1	1	1	//Sylph Wind Bow
+2	13	0	0	1	1	1	1	//Divine Scepter of Archangel
+end											

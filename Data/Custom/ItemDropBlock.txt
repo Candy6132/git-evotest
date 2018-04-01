@@ -1,0 +1,9 @@
+// Define items that you want server not to drop
+//-----------------------------------
+//	Type	Index	Description
+//-----------------------------------
+0
+	14	10	//Town Portal Scroll
+	14	12	//Heart
+	13	10	//Heart
+end

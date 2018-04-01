@@ -1,0 +1,37 @@
+//=============================================================================================================
+//ItemDropRate	 	- Drop rate of item VS Zen [x/100]
+//ExRate		- Drop rate of excellent item [x/1000]    Erohim
+//=============================================================================================================
+//	EventName		DropZen		NA	NA 	NA 	  NA 		ItemDropRate	ExRate
+//=============================================================================================================
+1	
+	"BossAttackDrop"	10000000	0	0	 0	  0		100		1000
+end
+
+//=============================================================================================================
+//Type			- Item.TXT index (section) of the Box
+//Index 		- Item.TXT id of the Item
+//minLvl		- Minimal Level of the Item (+1, +2 etc...)
+//maxLvl		- Maximum Level of the Item (+1, +2 etc...)
+//Skill			- Drop Item with Skill (0 - off,1 - on)
+//Luck			- Drop Item with Luck (0 - off,1 - on)
+//maxZ28		- Maximum Z28 option (1 = +4, 2 = +8, 3 = +12, etc...)
+//maxExOpt		- Maximum number of Exc option in item
+//=============================================================================================================
+//	Type	Index	minLvl	maxLvl	Skill	Luck	maxZ28	maxExOpt		
+//=============================================================================================================
+2																					
+8	21	0	0	0	1	1	1	//Red Phoenix Armor
+8	24	0	0	0	1	1	1	//Nature Armor
+8	28	0	0	0	1	1	1	//Dark Master Armor
+8	22	0	0	0	1	1	1	//Dark Side Armor
+8	23	0	0	0	1	1	1	//Hurricane Armor
+0	24	0	0	1	1	1	1	//Daybreak
+0	21	0	0	1	1	1	1	//Dark Reign Blade
+0	25	0	0	1	1	1	1	//Sword Dancer
+5	13	0	0	0	1	1	1	//Platina Staff
+4	22	0	0	1	1	1	1	//Albatross Bow
+4	20	0	0	1	1	1	1	//Arrow Viper Bow
+2	12	0	0	1	1	1	1	//Great Lord Scepter
+0	19	0	0	1	1	1	1	//Divine Sword of Archangel
+end			

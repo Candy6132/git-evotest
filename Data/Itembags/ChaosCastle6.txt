@@ -1,0 +1,57 @@
+//=============================================================================================================
+//ItemDropRate	 	- Drop rate of item VS Zen [x/100]
+//ExRate		- Drop rate of excellent item [x/1000]
+//=============================================================================================================
+//	EventName		DropZen		NA	NA 	NA 	  NA 		ItemDropRate	ExRate
+//=============================================================================================================
+1	
+	"ChaosCastle6"		30000000	0	0	 0	  0		80		850
+end
+
+//=============================================================================================================
+//Type			- Item.TXT index (section) of the Box
+//Index 		- Item.TXT id of the Item
+//minLvl		- Minimal Level of the Item (+1, +2 etc...)
+//maxLvl		- Maximum Level of the Item (+1, +2 etc...)
+//Skill			- Drop Item with Skill (0 - off,1 - on)
+//Luck			- Drop Item with Luck (0 - off,1 - on)
+//maxZ28		- Maximum Z28 option (1 = +4, 2 = +8, 3 = +12, etc...)
+//maxExOpt		- Maximum number of Exc option in item
+//=============================================================================================================
+//	Type	Index	minLvl	maxLvl	Skill	Luck	maxZ28	maxExOpt		
+//=============================================================================================================
+2
+0	24	6	9	1	1	1	1	//Explosion Blade
+0	25	6	9	1	1	1	1	//Sword Dancer
+2	15	6	9	1	1	1	1	//Shining Scepter
+4	22	6	9	1	1	1	1	//Albatross Bow
+5	13	6	9	0	1	1	1	//Platina Staff
+7	34	6	9	0	1	1	1	//Ashcrow Helm
+7	35	6	9	0	1	1	1	//Eclipse Helm
+7	36	6	9	0	1	1	1	//Iris Helm
+7	38	6	9	0	1	1	1	//Glorious Mask
+
+8	34	6	9	0	1	1	1	//Ashcrow Armor
+8	35	6	9	0	1	1	1	//Eclipse Armor
+8	36	6	9	0	1	1	1	//Iris Armor
+8	37	6	9	0	1	1	1	//Valiant Armor
+8	38	6	9	0	1	1	1	//Glorious Armor
+
+9	34	6	9	0	1	1	1	//Ashcrow Armor
+9	35	6	9	0	1	1	1	//Eclipse Pants
+9	36	6	9	0	1	1	1	//Iris Pants
+9	37	6	9	0	1	1	1	//Valiant Pants
+9	38	6	9	0	1	1	1	//Glorious Pants
+
+10	34	6	9	0	1	1	1	//Ashcrow Gloves
+10	35	6	9	0	1	1	1	//Eclipse Gloves
+10	36	6	9	0	1	1	1	//Iris Gloves
+10	37	6	9	0	1	1	1	//Valiant Gloves
+10	38	6	9	0	1	1	1	//Glorious Pants
+
+11	34	6	9	0	1	1	1	//Ashcrow Boots
+11	35	6	9	0	1	1	1	//Eclipse Boots
+11	36	6	9	0	1	1	1	//Iris Boots
+11	37	6	9	0	1	1	1	//Valiant Boots
+11	38	6	9	0	1	1	1	//Glorious Boots
+end

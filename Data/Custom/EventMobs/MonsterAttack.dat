@@ -1,0 +1,27 @@
+// Monster Attack System
+// Mob Map X  Y  Count
+1
+138	4	201	97	5  // King Orc
+138	4	195	97	5  // King Orc
+138	4	191	97	5  // King Orc
+138	4	191	102	5  // King Orc
+138	4	195	102	5  // King Orc
+138	4	201	102	5  // King Orc
+138	4	201	107	5  // King Orc
+138	4	197	107	5  // King Orc
+138	4	191	107	5  // King Orc
+139	4	190	113	5  // Orc Archer
+139	4	195	113	5  // Orc Archer
+139	4	201	113	5  // Orc Archer
+139	4	201	97	5  // Orc Archer
+139	4	195	97	5  // Orc Archer
+139	4	191	97	5  // Orc Archer
+139	4	191	102	5  // Orc Archer
+139	4	195	102	5  // Orc Archer
+139	4	201	102	5  // Orc Archer
+143	4	201	107	5  // Spirit Sorcerer
+143	4	197	107	5  // Spirit Sorcerer
+143	4	191	107	5  // Spirit Sorcerer
+143	4	190	113	5  // Spirit Sorcerer
+143	4	195	113	5  // Spirit Sorcerer
+end
