@@ -1,0 +1,17 @@
+Configuration/
+cashshopserver/
+ChatServer/
+Configuration/
+CS/
+DataServer1/
+DataServer2/
+EventServer/
+ExDB/
+JoinServer/
+Log/
+Logs/
+RankingServer/
+Tools/
+GameServer/
+GameServerCS/
+*.exe
