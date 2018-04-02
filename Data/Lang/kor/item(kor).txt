@@ -536,12 +536,6 @@ end
 82	-1	0	1	2      	   1	 1       0	"Leap of Control"  			0	0
 83	-1	0	1	1      	   1	 1       0	"Rare Item Ticket Special"  		0	0
 
-84  -1  0   1	2   1   0   0   "Summon Scroll 1"     0   0
-85  -1  0   1   2   1   0   0   "Summon Scroll 2"     0   0
-86  -1  0   1   2   1   0   0   "Summon Scroll 3"     0   0
-87  -1  0   1   2   1   0   0   "Summon Scroll 4"     0   0
-
-88  -1  0   1   1   1   0   0   "Scorpion Mobility"     0   0
 89	-1	0	1	1	1	0	0	"Bronze Coin"			150	30
 90	-1	0	1	1	1	0	0	"Silver Coin"			150	30
 91	-1	0	1	1	1	0	0	"Golden Coin"			150	30
@@ -561,7 +555,7 @@ end
 110	 -1 0	1   1  	1	0 	0 	"Bounch Of Harmony"         150	30
 end
 15
-//Index	Slot	Skill	X	Y	Serial	Opt	Drop	Nombre                  Lvl	ReqLvl	Ene	Zen	DwSmGm	DkBkBm	FeMeHe	MgDm	DlLe
+//Index	Slot	Skill	X	Y	Serial	Opt	Drop	Nombre                                  Lvl	ReqLvl	Ene	Zen	DwSmGm	DkBkBm	FeMeHe	MgDm	DlLe
 0	-1	0	1	2      	   1	 0       1	"Scroll of Poison"  			30	0	100	17000	1	0	0	1	0
 1	-1	0	1	2      	   1	 0       1	"Scroll of Meteorite"  			21	0	100	11000	1	0	0	1	0
 2	-1	0	1	2      	   1	 0       1	"Scroll of Lighting"  			13	0	100	3000	1	0	0	1	0
