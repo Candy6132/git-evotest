@@ -144,13 +144,13 @@ end
 9	1	30	10	68	-1	//Thunder Lich
 9	1	30	33	90	-1	//Thunder Lich
 9	1	30	12	121	-1	//Thunder Lich			
-//10	1	30	41	88	-1	//Dark Knight
-//10	1	30	19	120	-1	//Dark Knight
-//10	1	30	37	98	-1	//Dark Knight
-//10	1	30	14	107	-1	//Dark Knight
-//10	1	30	22	65	-1	//Dark Knight
-//10	1	30	39	77	-1	//Dark Knight
-//10	1	30	29	66	-1	//Dark Knight
+10	1	30	41	88	-1	//Dark Knight
+10	1	30	19	120	-1	//Dark Knight
+10	1	30	37	98	-1	//Dark Knight
+10	1	30	14	107	-1	//Dark Knight
+10	1	30	22	65	-1	//Dark Knight
+10	1	30	39	77	-1	//Dark Knight
+10	1	30	29	66	-1	//Dark Knight
 11	1	30	69	167	-1	//Ghost
 11	1	30	136	149	-1	//Ghost
 11	1	30	133	212	-1	//Ghost
