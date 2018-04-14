@@ -21,4 +21,26 @@
 //Sets
 //Type Index  Level   Skill    Exc   AddOption
 //=================================================================================
-12	32	0	0	0	0	//Red Ribbon Box
+7	1	9	0	0	1	//Dragon Helm
+8	1	9	0	0	1	//Dragon Armor
+9	1	9	0	0	1	//Dragon Pants
+10	1	9	0	0	1	//Dragon Gloves
+11	1	9	0	0	1	//Dragon Boots
+
+7	14	9	0	0	1	//Guardian Helm
+8	14	9	0	0	1	//Guardian Armor
+9	14	9	0	0	1	//Guardian Pants
+10	14	9	0	0	1	//Guardian Gloves
+11	14	9	0	0	1	//Guardian Boots
+
+7	3	9	0	0	1	//Legendary Helm
+8	3	9	0	0	1	//Legendary Armor
+9	3	9	0	0	1	//Legendary Pants
+10	3	9	0	0	1	//Legendary Gloves
+11	3	9	0	0	1	//Legendary Boots
+
+7	26	9	0	0	1	//Adamantine  Helm
+8	26	9	0	0	1	//Adamantine  Armor
+9	26	9	0	0	1	//Adamantine  Pants
+10	26	9	0	0	1	//Adamantine  Gloves
+11	26	9	0	0	1	//Adamantine  Boots

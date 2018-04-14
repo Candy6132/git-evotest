@@ -21,5 +21,15 @@ end
 //	Type	Index	minLvl	maxLvl	Skill	Luck	maxZ28	maxExOpt		
 //=============================================================================================================
 2																					
-12	32	0	0	0	0	0	0	//Red Ribbon Drop
+8	29	0	0	0	1	1	1	//Dragon Knight Armor
+8	30	0	0	0	1	1	1	//Venom Mist Armor
+8	31	0	0	0	1	1	1	//Sylphid Ray Armor
+8	33	0	0	0	1	1	1	//Sunlight Armor
+8	32	0	0	0	1	1	1	//Volcano Armor
+0	22	0	0	1	1	1	1	//Bone Blade
+0	23	0	0	1	1	1	1	//Explosion Blade
+5	12	0	0	0	1	1	1	//Grand Viper Staff
+5	11	9	13	0	1	1	1	//Staff of Kundun
+4	21	0	0	1	1	1	1	//Sylph Wind Bow
+2	13	0	0	1	1	1	1	//Divine Scepter of Archangel
 end											
